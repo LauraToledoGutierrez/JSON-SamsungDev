@@ -1,0 +1,131 @@
+<supermercados>
+    <supermercado>
+        <nombre>Mercadona</nombre>
+        <direccion>calle caracol, 1</direccion>
+        <geolocalizacion>
+            <latitud>40.4165</latitud>
+            <longitud>-3.70256</longitud>
+        </geolocalizacion>
+        <productos>
+            <producto>
+                <nombre>Pan de molde</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>21-04-23 al 25-05-23</periodo_vigencia>
+                <habitual>true</habitual>
+                <cantidad>1</cantidad>
+                <unidad_medida>pack</unidad_medida>
+                <precio>1.20</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Pollo</nombre>
+                <oferta>true</oferta>
+                <periodo_vigencia>13-04-23 al 23-04-23</periodo_vigencia>
+                <habitual>true</habitual>
+                <cantidad>1.2</cantidad>
+                <unidad_medida>kilo</unidad_medida>
+                <precio>3.55</precio>
+                <adquirido>false</adquirido>
+            </producto>
+            <producto>
+                <nombre>Arroz</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>01-04-23 al 16-09-24</periodo_vigencia>
+                <habitual>true</habitual>
+                <cantidad>1</cantidad>
+                <unidad_medida>kilo</unidad_medida>
+                <precio>1.17</precio>
+                <adquirido>false</adquirido>
+            </producto>
+        </productos>
+    </supermercado>
+    <supermercado>
+        <nombre>Lidl</nombre>
+        <direccion>calle ave maria, 13</direccion>
+        <geolocalizacion>
+            <latitud>42.8963</latitud>
+            <longitud>1.74523</longitud>
+        </geolocalizacion>
+        <productos>
+            <producto>
+                <nombre>Macarrones</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>01-04-23 al 30-10-24</periodo_vigencia>
+                <habitual>true</habitual>
+                <cantidad>1</cantidad>
+                <unidad_medida>kilo</unidad_medida>
+                <precio>0.8</precio>
+                <adquirido>true</adquirido>
+            </producto>
+            <producto>
+                <nombre>Pimiento</nombre>
+                <oferta>false</oferta>
+                <habitual>true</habitual>
+                <cantidad>500</cantidad>
+                <unidad_medida>gramos</unidad_medida>
+                <precio>0.50</precio>
+                <adquirido>false</adquirido>
+            </producto>
+            <producto>
+                <nombre>Sardinas en aceite</nombre>
+                <oferta>true</oferta>
+                <periodo_vigencia>09-04-23 al 25-05-26</periodo_vigencia>
+                <habitual>true</habitual>
+                <cantidad>1</cantidad>
+                <unidad_medida>lata</unidad_medida>
+                <precio>1.56</precio>
+                <adquirido>false</adquirido>
+            </producto>
+            <producto>
+                <nombre>Jamon serrano</nombre>
+                <oferta>true</oferta>
+                <periodo_vigencia>09-04-23 al 25-11-23</periodo_vigencia>
+                <habitual>true</habitual>
+                <cantidad>1</cantidad>
+                <unidad_medida>pack</unidad_medida>
+                <precio>3.15</precio>
+                <adquirido>true</adquirido>
+            </producto>
+        </productos>
+    </supermercado>
+    <supermercado>
+        <nombre>Carrefour</nombre>
+        <direccion>Avenida descubrimientos, 31</direccion>
+        <geolocalizacion>
+            <latitud>39.2356</latitud>
+            <longitud>-5.89567</longitud>
+        </geolocalizacion>
+        <productos>
+            <producto>
+                <nombre>Salmon ahumado</nombre>
+                <oferta>true</oferta>
+                <periodo_vigencia>28-02-23 al 13-04-23</periodo_vigencia>
+                <habitual>false</habitual>
+                <cantidad>1</cantidad>
+                <unidad_medida>pack</unidad_medida>
+                <precio>3.78</precio>
+                <adquirido>false</adquirido>
+            </producto>
+             <producto>
+                <nombre>Agua</nombre>
+                <oferta>false</oferta>
+                <habitual>true</habitual>
+                <cantidad>1</cantidad>
+                <unidad_medida>litro</unidad_medida>
+                <precio>0.48</precio>
+                <adquirido>true</adquirido>
+            </producto>
+             <producto>
+                <nombre>Leche</nombre>
+                <oferta>false</oferta>
+                <periodo_vigencia>01-04-23 al 25-06-23</periodo_vigencia>
+                <habitual>true</habitual>
+                <cantidad>1</cantidad>
+                <unidad_medida>litro</unidad_medida>
+                <precio>1.09</precio>
+                <adquirido>false</adquirido>
+            </producto>
+        </productos>
+    </supermercado>
+
+</supermercados>

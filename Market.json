@@ -1,0 +1,132 @@
+{
+    "supermercados":[
+        {
+            "nombre": "Mercadona",
+            "direccion": "calle caracol, 1",
+            "geolocalizacion": {
+                "latitud":40.4165,
+                "longitud":-3.70256
+            },
+            "productos":[
+                {
+                    "nombre":"Pan de molde",
+                    "oferta":false,
+                    "periodo_vigencia":"21-04-23 al 25-05-23",
+                    "habitual":true,
+                    "cantidad":1,
+                    "unidad_medida":"pack",
+                    "precio":1.20,
+                    "adquirido":true
+                },
+                {
+                    "nombre":"Pollo",
+                    "oferta":true,
+                    "periodo_vigencia":"13-04-23 al 23-04-23",
+                    "habitual":true,
+                    "cantidad":1.2,
+                    "unidad_medida":"kilo",
+                    "precio":3.55,
+                    "adquirido":false
+                },
+                {
+                    "nombre":"Arroz",
+                    "oferta":false,
+                    "periodo_vigencia":"01-04-23 al 16-09-24",
+                    "habitual":true,
+                    "cantidad":1,
+                    "unidad_medida":"kilo",
+                    "precio":1.17,
+                    "adquirido":false
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "direccion": "calle ave maria, 13",
+            "geolocalizacion": {
+                "latitud":42.8963,
+                "longitud":1.74523
+            },
+            "productos":[
+                {
+                    "nombre":"Macarrones",
+                    "oferta":false,
+                    "periodo_vigencia":"01-04-23 al 30-10-24",
+                    "habitual":true,
+                    "cantidad":1,
+                    "unidad_medida":"kilo",
+                    "precio":0.8,
+                    "adquirido": true
+                },
+                {
+                    "nombre":"Pimiento",
+                    "oferta":false,
+                    "habitual":true,
+                    "cantidad":500,
+                    "unidad_medida":"gramos",
+                    "precio":0.50,
+                    "adquirido":false
+                },
+                {
+                    "nombre":"Sardinas en aceite",
+                    "oferta":true,
+                    "periodo_vigencia":"09-04-23 al 25-05-26",
+                    "habitual":true,
+                    "cantidad":1,
+                    "unidad_medida":"lata",
+                    "precio":1.56,
+                    "adquirido":false
+                },
+                {
+                    "nombre":"Jamon Serrano en lonchas",
+                    "oferta":true,
+                    "periodo_vigencia":"09-04-23 al 25-11-23",
+                    "habitual":true,
+                    "cantidad":1,
+                    "unidad_medida":"pack",
+                    "precio":3.15,
+                    "adquirido":true
+                }
+            ]
+        },
+        {
+            "nombre": "Carrefour",
+            "direccion": "Avenida descubrimientos, 31",
+            "geolocalizacion": {
+                "latitud":39.2356,
+                "longitud":-5.89567
+            },
+            "productos":[
+                {
+                    "nombre":"Salmon ahumado",
+                    "oferta":"true",
+                    "periodo_vigencia":"28-02-23 al 13-04-23",
+                    "habitual":false,
+                    "cantidad":1,
+                    "unidad_medida":"pack",
+                    "precio":3.78,
+                    "adquirido":false
+                },
+                {
+                    "nombre":"Agua",
+                    "oferta":true,
+                    "habitual":true,
+                    "cantidad":1,
+                    "unidad_medida":"litro",
+                    "precio":0.48,
+                    "adquirido":true
+                },
+                {
+                    "nombre":"Leche",
+                    "oferta":false,
+                    "periodo_vigencia":"01-04-23 al 25-06-23",
+                    "habitual":true,
+                    "cantidad":1,
+                    "unidad_medida":"litro",
+                    "precio":1.09,
+                    "adquirido":false
+                }
+            ]
+        }
+    ]
+}
