@@ -1,8 +1,8 @@
 {
     "supermercados":[
         {
-            "nombre": "Mercadona",
-            "direccion": "calle caracol, 1",
+            "nombre":"Mercadona",
+            "direccion":"Calle caracol, 1",
             "geolocalizacion": {
                 "latitud":40.4165,
                 "longitud":-3.70256
@@ -41,8 +41,8 @@
             ]
         },
         {
-            "nombre": "Lidl",
-            "direccion": "calle ave maria, 13",
+            "nombre":"Lidl",
+            "direccion":"Calle Ave Maria, 13",
             "geolocalizacion": {
                 "latitud":42.8963,
                 "longitud":1.74523
@@ -90,8 +90,8 @@
             ]
         },
         {
-            "nombre": "Carrefour",
-            "direccion": "Avenida descubrimientos, 31",
+            "nombre":"Carrefour",
+            "direccion":"Avenida descubrimientos, 31",
             "geolocalizacion": {
                 "latitud":39.2356,
                 "longitud":-5.89567

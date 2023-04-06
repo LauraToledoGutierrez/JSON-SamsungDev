@@ -1,7 +1,7 @@
 <supermercados>
     <supermercado>
         <nombre>Mercadona</nombre>
-        <direccion>calle caracol, 1</direccion>
+        <direccion>Calle caracol, 1</direccion>
         <geolocalizacion>
             <latitud>40.4165</latitud>
             <longitud>-3.70256</longitud>
@@ -41,7 +41,7 @@
     </supermercado>
     <supermercado>
         <nombre>Lidl</nombre>
-        <direccion>calle ave maria, 13</direccion>
+        <direccion>Calle Ave Maria, 13</direccion>
         <geolocalizacion>
             <latitud>42.8963</latitud>
             <longitud>1.74523</longitud>
